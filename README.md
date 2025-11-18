@@ -48,16 +48,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-
-### Job Listings
-![Listings](https://via.placeholder.com/800x400?text=Job+Listings+Screenshot)
-
----
-
 ## 🚀 Installation
 
 ### Prerequisites
